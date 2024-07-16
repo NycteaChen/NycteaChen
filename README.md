@@ -6,6 +6,7 @@ Dedicated to new technologies, problem-solving, and UI/UX.
 
 ### 📄 My project
 
+- [NewsWave](https://newswave-92gm.onrender.com/): A news integration website with a subscription service
 - [Light Life](https://light-life.web.app/): A dietitian matchmaking platform with a backstage management system for two kinds of clients (dietitian & customer).
 - [STYLiSH](https://nycteachen-stylish.web.app/): An apparel e-commerce RWD website built with plain JavaScript.
 
@@ -36,5 +37,4 @@ jungturn01tw@gmail.com
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
 </p>
