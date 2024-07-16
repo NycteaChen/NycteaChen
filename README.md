@@ -6,7 +6,7 @@ Dedicated to new technologies, problem-solving, and UI/UX.
 
 ### 📄 My project
 
-- [NewsWave](https://newswave-92gm.onrender.com/): A news integration website with a subscription service
+- [NewsWave](https://newswave-92gm.onrender.com/): A news integration website with a subscription service.
 - [Light Life](https://light-life.web.app/): A dietitian matchmaking platform with a backstage management system for two kinds of clients (dietitian & customer).
 - [STYLiSH](https://nycteachen-stylish.web.app/): An apparel e-commerce RWD website built with plain JavaScript.
 
