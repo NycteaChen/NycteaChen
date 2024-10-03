@@ -5,7 +5,7 @@
 <p align="center">I had been a registered dietitian before learning programming 🥑</p>
 <p align="center">I love animes ✨</p>
 <p align="center">
- <a href="https://www.buymeacoffee.com/vishwagauravin" target="_blank"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" style="vertical-align:center" /></a>
+ <a href="https://www.linkedin.com/in/yuchun-chen-21aa58200/" target="_blank"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" style="vertical-align:center" /></a>
  <a href="mailto:jungturn01tw@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
