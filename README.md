@@ -35,6 +35,7 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![shadcnUI](https://img.shields.io/badge/shadcnui-000?style=for-the-badge&logo=shadcnui)
+![styled-components](https://img.shields.io/badge/styledComponents-%23bf4f74?style=for-the-badge&logo=styledComponents&logoColor=white)
 
 #### Building Tools
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
