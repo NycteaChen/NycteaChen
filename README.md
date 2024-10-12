@@ -87,6 +87,18 @@ A dietitian matchmaking platform with a backstage management system for two kind
 🔗 [Demo](https://light-life.web.app/)　
 🗂️ [Repo](https://github.com/NycteaChen/Light-Life) 
 
+### Cooking Timer
+A minigame app with React + Redux, inspired by a game from Nintendo.
+
+🔗 [Demo](https://nycteachen.github.io/cooking-timer)　
+🗂️ [Repo](https://github.com/NycteaChen/cooking-timer) 
+
+### Online To-Do List 
+A to-do list practice with React + Redux + React-Router.
+
+🔗 [Demo](https://nycteachen.github.io/online-todo-list)　
+🗂️ [Repo](https://github.com/NycteaChen/online-todo-list) 
+
 ### STYLiSH
 An apparel e-commerce RWD website built with plain JavaScript.
 
